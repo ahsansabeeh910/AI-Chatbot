@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+response.mp3
+data/chat_history.json
+.env
+uploads/
+.vscode/
